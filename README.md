@@ -26,17 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=israt32&show_icons=true&theme=radical" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=israt32&theme=radical" alt="streak" />
-</p>
-
----
 
 ## 📌 What I Do  
 
@@ -66,12 +55,6 @@
 
 ## ⚡ Fun Fact  
 💡 *Consistency beats talent — I build every single day.*
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=israt32&theme=radical&no-frame=true&margin-w=10" />
-</p>
 
 ---
 
