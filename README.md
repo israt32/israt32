@@ -1,28 +1,25 @@
-<h1 align="center">Hi 👋, I'm Israt Jahan</h1>
+<h1 align="center">Hi 👋, I'm Israt Jahan</h1> 
 <h3 align="center">Frontend Developer | React & Tailwind Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Frontend+Developer;React+Enthusiast;Building+Modern+Web+Apps;Future+Remote+Developer" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/israt-jahan03/">
-    <img src="https://img.shields.io/badge/LinkedIn-Israt%20Jahan-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:israt5227@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Frontend+Developer;React+Enthusiast;Building+Modern+Web+Apps;Future+Remote+Developer" />
 </p>
 
 ---
 
 ## 🚀 About Me  
 
+<p>
+  <img align="right" alt="coding" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+</p>
+
 - 🎯 Frontend Developer with EEE background  
 - 💻 Skilled in **React, JavaScript, Tailwind CSS**  
 - 🌱 Currently learning **Next.js & Node.js**  
-- 🔥 Passionate about **clean UI & smooth UX**  
+- 🔥 Love building **clean, responsive UI**  
 - 🌍 Goal: Work remotely with global clients  
+
+<br clear="both"/>
 
 ---
 
@@ -30,18 +27,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=israt32&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=israt32&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -63,11 +48,17 @@
 
 ---
 
-## ⚡ Fun Fact  
+## 🌐 Connect With Me  
 
 <p align="center">
-💡 <i>Consistency beats talent — I build every single day.</i>
+  <a href="https://www.linkedin.com/in/israt-jahan03/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:israt5227@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
 </p>
+
+---
+
+## ⚡ Fun Fact  
+💡 *Consistency beats talent — I build every single day.*
 
 ---
 
