@@ -2,18 +2,26 @@
 <h3 align="center">Frontend Developer | React & Tailwind Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Frontend+Developer;React+Enthusiast;Building+Modern+Web+Apps;Future+Remote+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Frontend+Developer;React+Enthusiast;Building+Modern+Web+Apps;Future+Remote+Developer" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/israt-jahan03/">
+    <img src="https://img.shields.io/badge/LinkedIn-Israt%20Jahan-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:israt5227@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me  
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 - 🎯 Frontend Developer with EEE background  
 - 💻 Skilled in **React, JavaScript, Tailwind CSS**  
 - 🌱 Currently learning **Next.js & Node.js**  
-- 🔥 Love building **clean, responsive UI**  
+- 🔥 Passionate about **clean UI & smooth UX**  
 - 🌍 Goal: Work remotely with global clients  
 
 ---
@@ -26,6 +34,17 @@
 
 ---
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=israt32&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=israt32&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ## 📌 What I Do  
 
@@ -44,17 +63,11 @@
 
 ---
 
-## 🌐 Connect With Me  
+## ⚡ Fun Fact  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/israt-jahan03/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:israt5227@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+💡 <i>Consistency beats talent — I build every single day.</i>
 </p>
-
----
-
-## ⚡ Fun Fact  
-💡 *Consistency beats talent — I build every single day.*
 
 ---
 
