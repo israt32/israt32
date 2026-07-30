@@ -48,10 +48,16 @@
 
 ---
 
-## 📫 Connect with me
+## 🌐 Connect With Me  
 
-[![Email](https://img.shields.io/badge/Email-israt5227%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:israt5227@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Israt_Jahan-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/israt-jahan03/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:israt5227@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+
+</p>
 
 ---
 
