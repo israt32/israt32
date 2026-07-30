@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=250&section=header&text=Israt%20Jahan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20|%20React%20•%20Next.js%20•%20TypeScript&descAlignY=60"/>
+</p>
 <h1 align="center">Hi 👋, I'm Israt Jahan</h1> 
 <h3 align="center">Frontend Developer | React & Tailwind Specialist</h3>
 
