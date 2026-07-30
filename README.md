@@ -14,7 +14,7 @@ Full-Stack Web Developer | React • Next.js • TypeScript • Node.js
 
 ---
 
-## 🙋 About Me
+## 👩🏽 About Me
 
 <p>
   <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
